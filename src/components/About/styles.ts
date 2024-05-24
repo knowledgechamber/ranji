@@ -19,7 +19,7 @@ export const Container = styled.section`
     align-items: center;
 
     img{
-      width: 3.4rem;
+      width: 2.4rem;
     }
   }
 
@@ -49,7 +49,7 @@ export const Container = styled.section`
     text-align: center;
    img{
      margin-top: 2rem;
-     width: 75%;
+     width: 45%;
      filter: grayscale(0);
      transition: filter 0.5s;
      &:hover{

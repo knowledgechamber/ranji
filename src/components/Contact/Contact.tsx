@@ -1,6 +1,6 @@
 import { Container } from "./styles";
-import emailIcon from "../../assets/email-icon.svg";
-import phoneIcon from "../../assets/phone-icon.svg"
+import emailIcon from "../../assets/mail-ico.png";
+import phoneIcon from "../../assets/phone-ico.png"
 
 export function Contact(){
 
@@ -18,7 +18,7 @@ export function Contact(){
         </div>
         <div>
         <a href="tel:+919361176224"><img src={phoneIcon} alt="Phone No" /></a>
-          <a href="tel:+919361176224">(+91) 9361176224</a>
+          <a href="tel:+919361176224">+91 9361176224</a>
         </div>  
       </div>
     </Container>
