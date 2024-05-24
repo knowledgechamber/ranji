@@ -11,12 +11,12 @@ export function Footer() {
   return (
     <Container className="footer">
       <a href="https://vinayaksingh.in" className="logo">
-        <span>www.vinayak</span>
-        <span>singh.in</span>
+        <span>Thanks for visiting my site</span>
+        <span></span>
       </a>
       <div>
         <p>
-          This Website was made with <img src={reactIcon} alt="React" />
+          with regards <img src={reactIcon} alt="React" />
           {/* <span>❤️</span> */}
         </p>
       </div>
