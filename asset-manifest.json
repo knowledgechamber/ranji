@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ranji/static/css/main.039bf95e.css",
+    "main.js": "/ranji/static/js/main.f955ff3f.js",
+    "static/media/Profile2.png": "/ranji/static/media/Profile2.976b0d0647d186e1061e.png",
+    "static/media/Hello.gif": "/ranji/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Resume - Ranjitha.pdf": "/ranji/static/media/Resume - Ranjitha.1768a1f8c45ebb811d71.pdf",
+    "static/media/about.png": "/ranji/static/media/about.a97028d1af6a1245ddef.png",
+    "static/media/linkedin_3665214.png": "/ranji/static/media/linkedin_3665214.095044eabc7bb2c1d794.png",
+    "static/media/python-ico.png": "/ranji/static/media/python-ico.6a5cbc319ab3ddf8ef92.png",
+    "static/media/git-external.png": "/ranji/static/media/git-external.4e904bca1ccbf2b6a38c.png",
+    "static/media/Iconr.png": "/ranji/static/media/Iconr.d4528583404f86bc50ed.png",
+    "static/media/java.png": "/ranji/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/project.png": "/ranji/static/media/project.c71c2c482ab2e7e64a1e.png",
+    "static/media/figma.png": "/ranji/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/html-ico.png": "/ranji/static/media/html-ico.6e930594286d8afe4c79.png",
+    "static/media/css-ico.png": "/ranji/static/media/css-ico.463e319bad8e0edf1ef7.png",
+    "static/media/mail-ico.png": "/ranji/static/media/mail-ico.51b08bcbb5af7a861c31.png",
+    "static/media/bootstrap-icon.svg": "/ranji/static/media/bootstrap-icon.09b773cc0f17dc078cc9864e5e8006ba.svg",
+    "index.html": "/ranji/index.html",
+    "static/media/css-icon.svg": "/ranji/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
+    "main.039bf95e.css.map": "/ranji/static/css/main.039bf95e.css.map",
+    "main.f955ff3f.js.map": "/ranji/static/js/main.f955ff3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.f955ff3f.js"
+  ]
+}
